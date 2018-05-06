@@ -10,4 +10,4 @@ https://www.apachefriends.org/index.html
 # Configure the project
 Copy the Point of sale and keep it in C:\xampp\htdocs\Point of sale
 # Start & watch
-Open the browser then 
+Now you will be able to access your own files via http://localhost/Pointofsale/index.php in Chrome, Firefox or any other web browser.
