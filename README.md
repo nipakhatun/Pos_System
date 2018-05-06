@@ -14,4 +14,7 @@ Now you will be able to access your own files via http://localhost/Pointofsale/a
 
 ![adminsite](https://user-images.githubusercontent.com/11693744/39675293-bedc0e1e-517a-11e8-929e-3beb72b19877.JPG)
 
+For member Login via http://localhost/Pointofsale/index.php
+
+
 ![membersite](https://user-images.githubusercontent.com/11693744/39675257-510e2688-517a-11e8-89bd-0e79b3239569.JPG)
