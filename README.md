@@ -7,6 +7,9 @@ What things you need to install the software or run the project.
 # Install
 XAMPP makes easy for developers to create a local web server for testing and deployment purposes. So it must have to install in your PC. If its not already installed, you can follow the instructions below to get things set up.
 https://www.apachefriends.org/index.html
+
+# Import the database pos.sql
+
 # Configure the project
 Copy the Point of sale and keep it in C:\xampp\htdocs\Point of sale
 # Start & watch
